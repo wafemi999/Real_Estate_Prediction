@@ -1,2 +1,2 @@
 # Real_Estate_Prediction:
-Accommodation-Price-prediction.
+Accommodation-Price-prediction
